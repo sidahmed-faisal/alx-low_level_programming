@@ -1,4 +1,4 @@
-#include "main.h"
+nclude "main.h"
 
 /**
  * print_square - prints a square, followed by a new line;
@@ -9,7 +9,7 @@ void print_square(int size)
 	if (size <= 0)
 	{
 		_putchar('\n');
-	}else
+	} else
 	{
 		int i, j;
 
